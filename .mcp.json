@@ -3,6 +3,9 @@
     "tavily-search": {
       "command": "python3",
       "args": ["/home/reg/Coding/AI_Agent_MCP_Test/server.py"]
+    },
+    "github": {
+      "command": "/home/reg/Coding/AI_Agent_MCP_Test/start_github_mcp.sh"
     }
   }
 }

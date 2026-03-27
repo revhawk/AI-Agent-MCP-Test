@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tavily-search": {
+      "command": "python3",
+      "args": ["/home/reg/Coding/AI_Agent_MCP_Test/server.py"]
+    }
+  }
+}
